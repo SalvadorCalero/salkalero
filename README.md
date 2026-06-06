@@ -20,3 +20,5 @@ Repositorio enfocado al dominio del framework Laravel, implementando arquitectur
 
 ---
 📫 **¿Hablamos?** Puedes contactar conmigo a través de mi perfil profesional o pasarte por mi web en salkalero.github.io.
+
+<!-- Comprobación salkalero Pro 2026 -->
